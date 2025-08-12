@@ -1,0 +1,14 @@
+Σωτήρης, Χριστοδούλου, sxristod, sxristod@uop.gr 
+Νικόλαος, Νικολάου, niknik, n.nikolaou@gmail.com 
+Jane,Smith,jsmith,jane.smith@email.com 
+Alice,Johnson,ajohnson,alice.j@email.com
+Μαρία, Παπαδοπούλου, mpapad, mpapad@uop.gr
+Dimitrios, Antoniou, dantoni, d.antoniou@email.com
+Sophia, Williams, swilliam, sophia.w@academic.org
+Γιάννης, Ιωάννου, giannisio, g.ioannou@uop.gr
+Robert, Chen, rchen, rob.chen@unimail.edu
+Ελένη, Κωνσταντίνου, elenikon, e.konstantinou@uop.gr
+Thomas, Müller, tmuller, thomas_m@eurostudy.de
+Αναστάσιος, Φωτιάδης, tasosf, a.fotiades@uop.gr
+Olivia, Garcia, ogarcia, olivia.g@scholarmail.com
+Παντελής, Σταύρου, pstavrou, p.stavrou@uop.gr

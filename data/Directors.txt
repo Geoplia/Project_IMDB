@@ -1,0 +1,25 @@
+Quentin,Tarantino,1963-03-27,M,Pulp Fiction|Kill Bill|Django Unchained 
+Christopher,Nolan,1970-07-30,M,Inception|Interstellar|The Dark Knight 
+Steven,Spielberg,1946-12-18,M,Schindler's List|E.T.|Jurassic Park 
+Greta,Gerwig,1983-08-04,F,Lady Bird|Little Women|Barbie 
+David,Fincher,1962-08-28,M,Fight Club|Gone Girl|Mindhunter|House of Cards 
+Cary,Joji Fukunaga,1977-07-10,M,No Time to Die|True Detective 
+Ben,Stiller,1965-11-30,M,Severance|Zoolander|The Secret Life of Walter Mitty 
+Aoife,McArdle,1978-05-01,F,Severance
+Martin, Scorsese, 1942-11-17, M, Taxi Driver|Goodfellas|The Wolf of Wall Street
+Ava, DuVernay, 1972-08-24, F, Selma|13th|When They See Us
+Denis, Villeneuve, 1967-10-03, M, Arrival|Blade Runner 2049|Dune
+Jordan, Peele, 1979-02-21, M, Get Out|Us|Nope
+Bong, Joon-ho, 1969-09-14, M, Parasite|Snowpiercer|Memories of Murder
+Sofia, Coppola, 1971-05-14, F, Lost in Translation|Marie Antoinette|The Virgin Suicides
+Spike, Lee, 1957-03-20, M, Do the Right Thing|BlacKkKlansman|Malcolm X
+Kathryn, Bigelow, 1951-11-27, F, The Hurt Locker|Zero Dark Thirty|Point Break
+Wes, Anderson, 1969-05-01, M, The Grand Budapest Hotel|Moonrise Kingdom|The Royal Tenenbaums
+Jane, Campion, 1954-04-30, F, The Piano|The Power of the Dog|Top of the Lake
+Pierre,Perifel,1980-05-15,M,The Bad Guys|The Bad Guys 2
+Wes,Anderson,1969-05-01,M,The Grand Budapest Hotel|Moonrise Kingdom|Fantastic Mr. Fox
+Denis,Villeneuve,1967-10-03,M,Blade Runner 2049|Dune|Arrival
+James,Mangold,1963-12-16,M,Logan|Ford v Ferrari|Walk the Line
+Luca,Guadagnino,1971-08-10,M,Call Me by Your Name|Suspiria|Bones and All
+Edgar,Wright,1974-04-18,M,Baby Driver|Shaun of the Dead|Hot Fuzz
+Guillermo,del Toro,1964-10-09,M,The Shape of Water|Pan's Labyrinth|Hellboy

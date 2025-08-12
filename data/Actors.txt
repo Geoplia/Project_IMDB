@@ -1,0 +1,34 @@
+Marlon, Brando, 1924-03-04, M, Caucasoid 
+Uma, Thurman, 1970-04-29, F, Caucasoid 
+Leonardo,DiCaprio,1974-11-11,M,Caucasoid 
+Morgan,Freeman,1937-06-01,M,Negroid 
+Emma,Stone,1988-11-06,F,Caucasoid 
+Jackie,Chan,1954-04-07,M,Asian 
+Adam,Scott,1973-04-03,M,Caucasoid 
+Bryan,Cranston,1956-03-07,M,Caucasoid
+Tom,Hanks,1956-07-09,M,Caucasoid
+Viola,Davis,1965-08-11,F,Negroid
+Ken,Watanabe,1959-10-21,M,Asian
+Zoe,Saldana,1978-06-19,F,Negroid
+Jason,Momoa,1979-08-01,M,Pacific Island and Australian
+Michelle,Yeoh,1962-08-06,F,Asian
+Javier,Bardem,1969-03-01,M,Caucasoid
+Lupita,Nyong'o,1983-03-01,F,Negroid
+Keanu,Reeves,1964-09-02,M,Asian
+Q'orianka,Kilcher,1990-02-11,F,Amerindians and Eskimos
+Benedict, Cumberbatch, 1976-07-19, M, Caucasoid
+Chris, Evans, 1981-06-13, M, Caucasoid
+Ahn, Seo-hyun, 2004-01-12, F, Asian
+Song, Kang-ho, 1967-01-17, M, Asian
+Robert, De Niro, 1943-08-17, M, Caucasoid
+Sam, Rockwell, 1968-11-05, M, Caucasoid
+Robert, Pattinson, 1986-05-13, M, Caucasoid
+Tilda,Swinton,1960-11-05,F,Caucasoid
+Ralph,Fiennes,1962-12-22,M,Caucasoid
+Ryan,Gosling,1980-11-12,M,Caucasoid
+Harrison,Ford,1942-07-13,M,Caucasoid
+Timothée,Chalamet,1995-12-27,M,Caucasoid
+Armie,Hammer,1986-08-28,M,Caucasoid
+Ansel,Elgort,1994-03-14,M,Caucasoid
+Sally,Hawkins,1976-04-27,F,Caucasoid
+Anya,Taylor-Joy,1996-04-16,F,Caucasoid

@@ -1,0 +1,31 @@
+Inception,2010,Sci-Fi,148,Christopher Nolan,8.8,Leonardo DiCaprio,1:9|2:10|3:9
+The Shawshank Redemption,1994,Drama,142,Frank Darabont,9.3,Morgan Freeman,2:10|3:10|4:9
+La La Land,2016,Musical,128,Damien Chazelle,8.0,Emma Stone,1:7|3:8|4:7
+Rush Hour,1998,Action,98,Brett Ratner,7.0,Jackie Chan,2:8|4:8
+Mickey 17,2025,Sci-Fi,137,Bong Joon Ho,7.2,Robert Pattinson,5:8|7:6|9:7
+The Wolf of Wall Street,2013,Biography,180,Martin Scorsese,8.2,Leonardo DiCaprio,1:9|3:10|8:9
+Parasite,2019,Thriller,132,Bong Joon Ho,8.6,Song Kang-ho,2:10|4:9|6:10
+Goodfellas,1990,Crime,146,Martin Scorsese,8.7,Robert De Niro,3:10|5:9|7:10
+The Departed,2006,Thriller,151,Martin Scorsese,8.5,Leonardo DiCaprio,1:8|4:9|10:9
+Snowpiercer,2013,Sci-Fi,126,Bong Joon Ho,7.1,Chris Evans,2:8|6:7|9:8
+The Irishman,2019,Crime,209,Martin Scorsese,7.8,Robert De Niro,5:8|7:9|10:7
+Okja,2017,Adventure,120,Bong Joon Ho,7.3,Ahn Seo-hyun,1:7|4:8|8:7
+Taxi Driver,1976,Drama,114,Martin Scorsese,8.3,Robert De Niro,3:10|6:9|9:10
+The Bad Guys 2,2025,Animation,100,Pierre Perifel,7.5,Sam Rockwell,2:8|5:7|7:8
+Pulp Fiction,1994,Crime,154,Quentin Tarantino,8.9,John Travolta,2:9|4:10|6:9|9:8
+The Dark Knight,2008,Action,152,Christopher Nolan,9.0,Christian Bale,1:10|3:9|5:10|7:9
+Interstellar,2014,Sci-Fi,169,Christopher Nolan,8.6,Matthew McConaughey,2:9|4:8|6:10|8:9
+Fight Club,1999,Drama,139,David Fincher,8.8,Brad Pitt,1:9|3:10|5:8|7:9
+The Shawshank Redemption,1994,Drama,142,Frank Darabont,9.3,Tim Robbins,2:10|4:9|6:10|8:9
+Gladiator,2000,Action,155,Ridley Scott,8.5,Russell Crowe,1:9|3:8|5:9|7:10
+The Matrix,1999,Sci-Fi,136,Lana & Lilly Wachowski,8.7,Keanu Reeves,2:10|4:9|6:8|9:9
+Forrest Gump,1994,Drama,142,Robert Zemeckis,8.8,Tom Hanks,1:9|3:10|5:9|7:8
+The Silence of the Lambs,1991,Thriller,118,Jonathan Demme,8.6,Anthony Hopkins,2:9|4:10|6:9|8:8
+Schindler's List,1993,Biography,195,Steven Spielberg,8.9,Liam Neeson,1:10|3:9|5:10|7:9
+The Departed,2006,Crime,151,Martin Scorsese,8.5,Leonardo DiCaprio,2:9|4:8|6:9|8:10
+Whiplash,2014,Drama,106,Damien Chazelle,8.5,Miles Teller,1:9|3:10|5:8|7:9
+The Grand Budapest Hotel,2014,Comedy,99,Wes Anderson,8.1,Ralph Fiennes,2:8|4:9|6:7|9:8
+Blade Runner 2049,2017,Sci-Fi,164,Denis Villeneuve,8.0,Ryan Gosling,1:9|3:8|5:9|7:10
+Mad Max: Fury Road,2015,Action,120,George Miller,8.1,Tom Hardy,2:9|4:8|6:10|8:9
+The Social Network,2010,Drama,120,David Fincher,7.7,Jesse Eisenberg,1:8|3:9|5:7|7:8
+
