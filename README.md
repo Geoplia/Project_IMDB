@@ -1,4 +1,4 @@
-# 🎬 IMDB Desktop Manager
+# 🎬 Movies Manager
 
 A modern Java Swing desktop application to manage movies, series, seasons, and episodes — fully styled with a modern dark theme.  
 Supports advanced search, ratings, and multiple viewing modes (table & gallery).
