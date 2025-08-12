@@ -74,6 +74,12 @@ project
 │               │
 │               └───ui
 │                   └───dialogs
+│                   │   │   AddEpisodeDialog.java
+│                   │   │   AddMovieDialog.java
+│                   │   │   AddRatingDialog.java
+│                   │   │   AddSeasonDialog.java
+│                   │   │   AddSeriesDialog.java
+│                   │   │   DirectorDetailsDialog.java
 │                   │   │   MovieDetailsDialog.java
 │                   │
 │                   │   DarkTreeCellRenderer.java
